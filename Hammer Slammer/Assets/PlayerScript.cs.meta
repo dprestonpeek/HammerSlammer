@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ce4d465bd65624447af1ece954a60f47
+timeCreated: 1519422044
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - jump: {fileID: 8300000, guid: 209825c5485ffae4cbdf2b026cdb8512, type: 3}
+  - InvinciblePUPmini: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

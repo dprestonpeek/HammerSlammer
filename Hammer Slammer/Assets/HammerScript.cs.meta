@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bee98255adbb5954ab14ae837ffef617
+timeCreated: 1519422056
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - smash: {fileID: 8300000, guid: 9623d22f54a7d7e4c8913bdfbd67f1cf, type: 3}
+  - SlamZone: {instanceID: 0}
+  - SuperHammerPUPmini: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
